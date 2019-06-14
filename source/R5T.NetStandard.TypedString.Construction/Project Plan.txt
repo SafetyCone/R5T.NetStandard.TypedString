@@ -1,0 +1,4 @@
+R5T.NetStandard.TypedString.Construction - A construction console entry-point for the R5T.NetStandard.TypedString library (A library containing the TypedString type and related functionality.).
+
+Goals
+
