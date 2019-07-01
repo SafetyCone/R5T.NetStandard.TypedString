@@ -2,3 +2,7 @@ R5T.NetStandard.TypedString - A library containing the TypedString type and rela
 
 Goals
 
+* Provide a base type for (unmutable) strongly-typed strings.
+* Provide upper- and lower-case strongly-typed string types, and extension methods by which to validate the contained value.
+* Provide unvalidated upper- and lower-case strongly-typed string types, and extension methods by which to validate the unvalidated types.
+* Provide a base type for mutable strongly-typed strings.

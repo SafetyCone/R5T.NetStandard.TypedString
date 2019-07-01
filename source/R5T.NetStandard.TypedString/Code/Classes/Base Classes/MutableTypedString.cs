@@ -6,7 +6,7 @@ namespace R5T.NetStandard
     /// <summary>
     /// A mutable typed-string.
     /// </summary>
-    public class MutableTypedString
+    public abstract class MutableTypedString
     {
         public string Value { get; }
 
