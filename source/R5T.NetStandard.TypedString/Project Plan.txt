@@ -1,5 +1,7 @@
 R5T.NetStandard.TypedString - A library containing the TypedString type and related functionality.
 
+TempChange
+
 Goals
 
 * Provide a base type for (unmutable) strongly-typed strings.
